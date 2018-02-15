@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Anaconda3\\Scripts\\emotion\\emo\\dhara\\Gudi_model_100_epochs_20000_faces"
+all_model_checkpoint_paths: "C:\\Anaconda3\\Scripts\\emotion\\emo\\dhara\\Gudi_model_100_epochs_20000_faces"
